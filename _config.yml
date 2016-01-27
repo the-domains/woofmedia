@@ -1,0 +1,28 @@
+name: WoofMedia
+favicon: null
+layout_spectrum: 0.9532864815555513
+typography_spectrum: 0.3801676689181477
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8832636727020144
+  lightness: 0.8247035630047321
+  saturation: 0.8390267100185156
+  rhythmicContrast: 0.638300399761647
+purpose: []
